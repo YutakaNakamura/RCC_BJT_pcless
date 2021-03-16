@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name BE25-118CPFR)(type Legacy)(uri ${KIPRJMOD}/symbol/BE25-118CPFR.lib)(options "")(descr ""))
+  (lib (name UniversalBoard)(type Legacy)(uri ${KIPRJMOD}/symbol/UniversalBoard.lib)(options "")(descr ""))
+  (lib (name PLT10HN450180P0B)(type Legacy)(uri ${KIPRJMOD}/symbol/PLT10HN450180P0B.lib)(options "")(descr ""))
+)

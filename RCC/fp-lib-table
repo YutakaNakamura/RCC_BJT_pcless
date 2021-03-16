@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name BE25-118CPFR)(type KiCad)(uri ${KIPRJMOD}/footprint/BE25-118CPFR.pretty)(options "")(descr ""))
+  (lib (name UniversalBoard)(type KiCad)(uri ${KIPRJMOD}/footprint/UniversalBoard.pretty)(options "")(descr ""))
+  (lib (name SSR21H-06425)(type KiCad)(uri ${KIPRJMOD}/footprint/SSR21H-06425.pretty)(options "")(descr ""))
+  (lib (name PLT10HN450180P0B)(type KiCad)(uri ${KIPRJMOD}/footprint/PLT10HN450180P0B.pretty)(options "")(descr ""))
+  (lib (name S1ZB60)(type KiCad)(uri ${KIPRJMOD}/footprint/S1ZB60.pretty)(options "")(descr ""))
+)

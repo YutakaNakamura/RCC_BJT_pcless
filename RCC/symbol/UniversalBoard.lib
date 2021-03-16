@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# UniversalBoard_C
+#
+DEF UniversalBoard_C GUIDE_STAMP 0 40 Y Y 1 F N
+F0 "GUIDE_STAMP" 0 300 50 H I C CNN
+F1 "UniversalBoard_C" 0 -300 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 250 0 1 0 f
+T 0 0 -50 50 0 0 0 (72*47.5) Normal 0 C C
+T 0 0 50 50 0 0 0 "C Board" Normal 0 C C
+ENDDRAW
+ENDDEF
+#
+# UniversalBoard_C_L
+#
+DEF UniversalBoard_C_L GUIDE_STAMP 0 40 Y Y 1 F N
+F0 "GUIDE_STAMP" 0 300 50 H I C CNN
+F1 "UniversalBoard_C_L" 0 -300 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 250 0 1 0 f
+T 0 0 -50 50 0 0 0 (72*47.5) Normal 0 C C
+T 0 0 50 50 0 0 0 "C Board(L)" Normal 0 C C
+ENDDRAW
+ENDDEF
+#
+#End Library
